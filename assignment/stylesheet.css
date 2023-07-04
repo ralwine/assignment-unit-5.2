@@ -1,10 +1,14 @@
 body{
+    background-image: url(record.png);
+    /*background-position: right top;*/
+    /*background-repeat: ;*/
     margin: 0;
 }
 
 header {
     background-color: rgb(33, 15, 44);
     color: rgb(211, 195, 139);
+    text-align: center;
 }
 
 main{
